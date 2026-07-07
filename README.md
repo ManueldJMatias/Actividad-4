@@ -1,4 +1,5 @@
 # Portafolio Personal - Manuel Matías
+Manuel de Jesus Matias Carreño 22161159
 
 Bienvenido al código fuente de mi portafolio personal. Este proyecto fue creado con el objetivo de aplicar y mostrar los conocimientos que he ido adquiriendo en desarrollo web.
 
@@ -74,7 +75,11 @@ Este proyecto fue adaptado y simplificado a partir de una plantilla original par
 Puedes descargar el código fuente de mi portafolio modificado y simplificado de forma gratuita. Haz clic en el siguiente enlace para descargarla:
 
 🔗 **[Descargar Plantilla (ZIP)](https://github.com/ManueldJMatias/Actividad-4/archive/refs/heads/main.zip)**
+## Capturas 
+<img width="1423" height="772" alt="image" src="https://github.com/user-attachments/assets/f51329cf-59ad-490d-9a07-f61ca594fbc3" />
 
+<img width="1861" height="866" alt="image" src="https://github.com/user-attachments/assets/ab9536a1-c5a2-4d3c-92d6-647f545194e8" />
+<img width="1912" height="833" alt="image" src="https://github.com/user-attachments/assets/0188c5f4-9d93-4943-beb6-1ad8859c90f7" />
 
 ---
 Hecho con esfuerzo por [Manuel Matías] - 2026.
